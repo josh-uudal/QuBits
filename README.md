@@ -1,16 +1,33 @@
-# qubits
+# Qubits – Quiz App in Flutter
 
-A new Flutter project.
+Features:
+- Quiz maker (T/F and multiple choice)
+- Play mode with score + feedback
+- Import / export quiz as JSON
+- Firebase Firestore for quiz storage
+- Firebase Storage for optional question images
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- Flutter 3.x
+- Dart SDK (bundled with Flutter)
+- Android Studio or VS Code (optional but helpful)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone this repo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/qubits.git
+   cd qubits
+
+2. Install dependencies (in project terminal):
+
+  ```bash
+flutter pub get
+  ```
+
+3. Run this code
+   ```bash
+   flutter run
+   ```

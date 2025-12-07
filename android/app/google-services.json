@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200650453484",
+    "project_id": "qubits-b4228",
+    "storage_bucket": "qubits-b4228.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200650453484:android:9f69e8d5efb9dcb2a3d0c9",
+        "android_client_info": {
+          "package_name": "com.example.qubits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahUhQTqOgikrFdXyp4Clv-4pN7J345kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

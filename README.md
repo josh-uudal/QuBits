@@ -18,7 +18,7 @@ Features:
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/qubits.git
+   git clone https://github.com/josh-uudal/QuBits
    cd qubits
 
 2. Install dependencies (in project terminal):
